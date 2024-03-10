@@ -1,5 +1,6 @@
 # search_llm_backend
 This is a perplexity-like backend program based on related papers and search_with_lepton implementation.
+There is no dependence on any third-party platform. The underlying LLM is based on Gemini Pro
 this is just an example
 
 query:
